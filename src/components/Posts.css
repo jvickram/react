@@ -1,0 +1,14 @@
+img {
+  text-align: center;
+  height: 50px;
+  width: 75px;
+  overflow: none;
+}
+
+.col-xs .col-sm-6 .col-md-4 {
+  margin-bottom: 5px !important;
+}
+
+.fetching {
+  color: green;
+}

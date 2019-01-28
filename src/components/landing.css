@@ -1,0 +1,22 @@
+ul li {
+  display: inline;
+}
+
+header {
+  text-align: center;
+  background-image: linear-gradient(blue, red);
+  color: white;
+  padding: 15px;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#navbarNav {
+  float: right !important;
+}
+/* .container-fluid {
+  background-image: linear-gradient(blue, red) !important;
+  height: 100 vh !important;
+  color: white;
+} */
